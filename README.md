@@ -32,8 +32,7 @@
 garantindo, assim, que as necessidades das atuais gerações sejam atendidas sem comprometer
 o atendimento das necessidades das gerações futuras.
  
-    A justifcativa para a implantação do curso de Turismo Patrimonial e Socioambiental, modalidade tecnólogo, na Universidade Federal do Tocantins/Câmpus de Arraias, é a de atender não somente a aquisição do conhecimento, mas também o desenvolvimento de competências e
-habilidades da área do turismo.
+    A justifcativa para a implantação do curso de Turismo Patrimonial e Socioambiental, modalidade tecnólogo, na Universidade Federal do Tocantins/Câmpus de Arraias, é a de atender não somente a aquisição do conhecimento, mas também o desenvolvimento de competências e habilidades da área do turismo. Grau: Tecnólogo, modalidade: presencial, turno: noturno, duração mínima do curso: 5 semestres (02 anos e meio), duração máxima: 7 semestres (03 anos e meio), vagas; 40 vagas anuias, Formas de Ingresso: vestibular processo seletivo com notas do Enem ou Sisu.
  </p>
 <p>
        
@@ -52,6 +51,7 @@ políticas públicas voltadas para as práticas de Turismo.</p>
         </section>
        <h2>Corpo Docente do Curso</h2>
        <img src="Corpo docente do curso (1).jgp"/>
+        <img src="C:\Users\aluno\Pictures\Screenshots\Corpo docente do curso (1).jpg"/>
        
 
 
