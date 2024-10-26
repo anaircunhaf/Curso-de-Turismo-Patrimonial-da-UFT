@@ -61,45 +61,7 @@ políticas públicas voltadas para as práticas de Turismo.</p>
             <img src="C:\Users\aluno\Pictures\Screenshots\Captura de Tela (2).png"/>
 
             <img src="C:\Users\aluno\Pictures\Screenshots\Captura de Tela (4).png"/>
-            1º Período
-Disciplinas
-
-carga horária
-
-créditos
-
-Iniciação ao Turismo: Diálogos e Produção de Saberes Culturais
-45 horas
-3 créditos
-
-Iniciação ao Turismo: Linguagens e Educomunicação
-
-120 horas 8 créditos
-
-Iniciação ao Turismo: Práticas de Laboratório (Receptivo, Gastronomia, Eventos, Ecoturismo)
-105 horas 7 créditos
-
-Total: 270 horas 18 créditos
-2º Período
-disciplinas
-
-carga horária créditos
-
-Ações Curriculares de Extensão - ACEs I
-
-30 horas 2 créditos
-
-Estruturação do Turismo I: Cadeia Produtiva do Turismo
-
-105 horas 7 créditos
-
-Estruturação do Turismo I: Instância de Governança Local/Regional e Governaça em Rede
-
-105 horas 7 créditos
-
-Estruturação do Turismo I: Territorialidade e Atores Sociais
-
-90 horas 6 créditos
+        
        
             <ul>
                 <li>
