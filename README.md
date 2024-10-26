@@ -1,4 +1,4 @@
-# Curso-de-Turismo-Patrimonial-da-UFT
+ # Curso-de-Turismo-Patrimonial-da-UFT
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -51,7 +51,7 @@ políticas públicas voltadas para as práticas de Turismo.</p>
            </p>
         </section>
        <h2>Corpo Docente do Curso</h2>
-       <img src="C:\Users\aluno\Pictures\Screenshots\Corpo docente do curso (1).png"/>
+       <img src="Corpo docente do curso (1).jgp"/>
        
 
 
